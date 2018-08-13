@@ -1,1 +1,1 @@
-# fuzzy_logic_simulation_CITT2018
+# fuzzy-logic-simulation-CITT2018
